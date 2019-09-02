@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Hello World!
-categories: C# Programming
+title: A blog post
+categories:project
 ---
-To display something in the C# console the command is:
+i love writing in c# its so fun
 
 ```csharp
-Console.WriteLine("Hello World");
+Console.WriteLine("my blog");
 ```
 
 This needs to be within the: 
